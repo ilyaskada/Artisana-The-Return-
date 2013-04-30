@@ -1,4 +1,4 @@
-package jee.modeles;
+package ma.fsr.jee.bean;
 
 
 public class Commande_Panier {
